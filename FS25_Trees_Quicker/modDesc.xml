@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="98">
+  <author>DrXmL</author>
+  <version>1.0.0.0</version>
+  <title>
+    <en>Faster Growing Trees</en>
+    <de>Schneller Wachsende Bäume</de>
+  </title>
+  <description>
+    <en>
+    <![CDATA[Faster Growing Trees
+]]></en>
+    <de>
+    <![CDATA[Schneller wachsende Bäume
+]]></de>
+  </description>
+  <multiplayer supported="true"/>
+  <iconFilename>icon_fasterTress.dds</iconFilename>
+  <extraSourceFiles>
+    <sourceFile filename="growthSpeedMod.lua"/>
+  </extraSourceFiles>
+</modDesc>
